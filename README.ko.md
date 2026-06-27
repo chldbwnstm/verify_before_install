@@ -213,6 +213,10 @@ slopsquat-guard/
 └── LICENSE                       # MIT
 ```
 
+## 만든 사람
+
+**humblebee** — THE BETTER COMPANY AI
+
 ## 라이선스
 
-MIT — [`LICENSE`](LICENSE) 참조.
+MIT © 2026 humblebee (THE BETTER COMPANY AI) — [`LICENSE`](LICENSE) 참조.

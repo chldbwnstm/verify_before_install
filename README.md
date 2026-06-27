@@ -221,6 +221,10 @@ slopsquat-guard/
 └── LICENSE                       # MIT
 ```
 
+## Author
+
+**humblebee** — THE BETTER COMPANY AI
+
 ## License
 
-MIT — see [`LICENSE`](LICENSE).
+MIT © 2026 humblebee (THE BETTER COMPANY AI) — see [`LICENSE`](LICENSE).
