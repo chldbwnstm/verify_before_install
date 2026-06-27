@@ -1,0 +1,26 @@
+{
+  "npm": [
+    "crossenv",
+    "cross-env.js",
+    "mongose",
+    "nodesqlite",
+    "node-opensl",
+    "noderequest",
+    "opencv.js",
+    "openssl.js",
+    "jquery.js",
+    "http-proxy.js"
+  ],
+  "pypi": [
+    "colourama",
+    "jeilyfish",
+    "python3-dateutil",
+    "djanga",
+    "setup-tools",
+    "urlib3",
+    "pytz3",
+    "easyinstall"
+  ],
+  "crates": [],
+  "rubygems": []
+}

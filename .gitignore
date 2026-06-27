@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# slopsquat-guard runtime
+.slopsquatrc.json          # local config (commit only the .example)
+slopsquat-guard-cache/     # on-disk response cache
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db

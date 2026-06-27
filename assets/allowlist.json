@@ -1,0 +1,24 @@
+{
+  "npm": [
+    "axios",
+    "express",
+    "lodash",
+    "next",
+    "react",
+    "react-dom",
+    "typescript",
+    "vue"
+  ],
+  "pypi": [
+    "django",
+    "fastapi",
+    "flask",
+    "numpy",
+    "pandas",
+    "pillow",
+    "pytest",
+    "requests"
+  ],
+  "crates": [],
+  "rubygems": []
+}

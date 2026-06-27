@@ -1,0 +1,17 @@
+{
+  "_comment": "이 파일을 프로젝트 루트 또는 스킬 폴더에 '.slopsquatrc.json' 으로 복사해 정책을 조정하세요. env SLOPSQUAT_CONFIG 로 경로 지정도 가능합니다.",
+  "new_package_days": 90,
+  "typo_distance_max": 2,
+  "http_timeout": 8,
+  "http_retries": 2,
+  "cache_ttl": 21600,
+  "cache_dir": null,
+  "low_downloads": {
+    "npm": 1000,
+    "pypi": 500,
+    "crates": 1000,
+    "rubygems": 5000
+  },
+  "allowlist_path": null,
+  "denylist_path": null
+}
